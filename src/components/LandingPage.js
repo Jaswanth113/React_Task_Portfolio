@@ -36,7 +36,7 @@ function LandingPage() {
 
     return (
     <div className="vas">
-        <h1>HI!, I'm Revanth</h1>
+        <h1>HI!, I'm Jaswanth</h1>
         <h3>I'm a {text}</h3>
     </div>
     );
